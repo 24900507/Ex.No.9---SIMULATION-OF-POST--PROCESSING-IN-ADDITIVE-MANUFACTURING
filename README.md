@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 29.11.2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,15 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![WhatsApp Image 2024-12-05 at 11 49 11](https://github.com/user-attachments/assets/d9d1d646-6a0e-40ba-a0d9-01d71d48f032)
+![WhatsApp Image 2024-12-05 at 11 49 11 (1)](https://github.com/user-attachments/assets/167aa11b-4e0e-445a-baf5-980421cbe35f)
+![WhatsApp Image 2024-12-05 at 11 49 12](https://github.com/user-attachments/assets/26565c8f-8328-42b1-ab3d-ec9d52cfe2fe)
+![WhatsApp Image 2024-12-05 at 11 49 09](https://github.com/user-attachments/assets/33d7cb19-01d9-44f8-ba10-5ac9574155c9)
+![WhatsApp Image 2024-12-05 at 11 49 09 (2)](https://github.com/user-attachments/assets/d886a0d3-37a0-40da-981d-74555c0250c8)
+![WhatsApp Image 2024-12-05 at 11 49 09 (1)](https://github.com/user-attachments/assets/eb175943-91ea-481a-a2d1-ba1a95c6ebf9)
 
-### Name:
-### Register Number:
+### Name: AKASH G
+### Register Number: 24900507
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
